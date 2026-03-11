@@ -38,8 +38,8 @@ export const content = {
         "You're the reason behind my smile 💖"
     ],
 
-    // Background music
-    music: "/music/romantic.mp3",
+    // Background music (Bryan Adams - Heaven)
+    music: "/music/heaven.mp3",
 
     // Scene Durations (in milliseconds)
     timing: {
