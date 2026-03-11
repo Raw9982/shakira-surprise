@@ -39,7 +39,7 @@ export const content = {
     ],
 
     // Background music (Bryan Adams - Heaven)
-    music: "/music/heaven.mp3",
+    music: "/music/heaven.m4a",
 
     // Scene Durations (in milliseconds)
     timing: {
